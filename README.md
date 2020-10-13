@@ -16,3 +16,5 @@ oh boy, another year of hacktoberfest <3
 I hope I get an extra tshirt this time too
 
 I gave my last year's tshirt to my roomie, he was happy :)
+
+whoaa I didn't think that a simple readme would get merge conflicts. I legit learn so much every time I make this high quality pull request.
